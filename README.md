@@ -11,6 +11,8 @@
   - Priotize Tasks
   - Datepicker/Timepicker
   - Share Tasks
+  - Notifications
+  -Alarm Reminder
 
 #Image
 
